@@ -1,10 +1,10 @@
 {
-  "version": "0.1.0",
+  "version": "0.0.1",
   "notes": "new update",
   "about": ["أول تحديث"],
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUlQ3U016TGRmRDFoWFV1b3hNTjhhVHA1T3lWZ3d5RnpBckxNNlNoSGRNM2MvSGNscVZFekRSK0JwdVMybmliT3VvUlowdDBGR0NReUUrUlMwUzRTWXpOaDNEcnlybkFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjkzNTI0MTIzCWZpbGU6c2Nob29sLW1hbmFnZXItYXBwXzAuMS44X3g2NC1zZXR1cC5uc2lzLnppcAp1MmZsMGpVWHpaYlMvb25hb0h6MndyVFlnK0hacXAyU1hxRTBVUkxuMk92NjFxOTl4SHZJUmZyZ1hQL3FRWm9JRXlyenBXdGZUaUVHOFNGbUczYitEQT09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdTFTNUFlTmtnbklZck1pY3U3dnhaSlAvanViOVF5T280S0t4bFN6amU4ZVFlaGlhVUVmYWlsWGRucXBubU94V2xwcC9zdEplMk5qY1FSNm1MOUpBeWtDaWZITm92cXdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzAxODc1Njk3CWZpbGU6c2Nob29sLW1hbmFnZXItYXBwXzAuMS4wX3g2NC1zZXR1cC5uc2lzLnppcApCVDFwOExvTEVaUFJFRG1OVFd5cFhicEpxWjg0QVBvK1c1S1VnRXUzcDV1bkV0N0c2cTZDOTJNSk9WeStXQk5raUpPdlV5cEdPdFh1cFhmNStKd2VEUT09Cg==",
       "url": "https://github.com/salmidiv/school-manager-app/releases/download/untagged-8a8f8bae50ab2c768436/school-manager-app_0.1.0_x64-setup.nsis.zip"
     }
   }
