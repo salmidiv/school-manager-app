@@ -1,11 +1,11 @@
 {
-  "version": "0.0.1",
+  "version": "0.0.2",
   "notes": "new update",
   "about": ["أول تحديث"],
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdTFTNUFlTmtnbk9aMldjWWFweXVMeG1QbUZiWFFFM0N3Wk9IQTQrKzdneEh4WHJKR2xlU1Jzd2RwM1o2cWIwNWRCcjFGbjVvR0poR2xLT0VabmNkZjJCcjdRaHEyRmdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzA2OTQ2NzMyCWZpbGU6c2Nob29sLW1hbmFnZXItYXBwXzAuMC4xX3g2NF9lbi1VUy5tc2kuemlwCjcwTzdpYmNlSFR0OGZraXhmZjhNM1BMNzcyMUJ4bHhJU09kNmlwZGM3S3lQbDdtOXpibVJXV000aERQcDlFVzM0WVVlb2dsZFQrcnBRRTJJOWJ4dUNRPT0K",
-      "url": "https://github.com/salmidiv/school-manager-app/releases/download/0.1.0/school-manager-app_0.1.0_x64-setup.nsis.zip"
+      "url": "https://github.com/salmidiv/school-manager-app/releases/download/new_release1/school-manager-app_0.0.1_x64_en-US.msi.zip"
     }
   }
 }
